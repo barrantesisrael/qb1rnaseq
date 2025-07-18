@@ -29,7 +29,7 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 - All other required data, software and packages, as well as experimental protocols are accessible through our virtual [Google Colab](https://colab.research.google.com/) environments (google email account needed to login). 
 
-- Open the experimental protocol here (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gitlab/wb283/qb1rnaseq/-/blob/main/notebooks/QB1_RNAseq_WS2025_20250714_V58.ipynb)
+- Open the experimental protocol here (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V58.ipynb)
 
 ---
 
