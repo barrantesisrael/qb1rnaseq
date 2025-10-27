@@ -29,7 +29,7 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 - All required data and scripts are available through our [gitlab repository](https://gitlab.uni-rostock.de/wb283/qb1rnaseq); all analyses are carried out in virtual [Google Colab](https://colab.research.google.com/) environments (google email account needed to login). 
 
-- Open the experimental protocol here (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V60.ipynb)
+- Open the experimental protocol here (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_DE.ipynb)
 
 ---
 
