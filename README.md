@@ -6,7 +6,7 @@ Scripts and tutorials for analyzing expression and drug repositioning data. Semi
 
 ## Description
 
-These sessions will cover the use of a variety of software tools needed for the analysis of microbiome data, from the handling of the Illumina sequencing data, to the processing of 16S rRNA amplicon data. During these sessions, the students will be able to:
+These sessions will cover the use of a variety of software tools needed for the analysis of gene expression data. During these sessions, the students will be able to:
 
 * Learn the basics on the linux / Mac OSX command line environment; 
 * Study the common data formats in the analysis of gene expression
@@ -27,7 +27,9 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 ##### Software and data
 
+<!-- 
 - All required data and scripts are available through our [gitlab repository](https://gitlab.uni-rostock.de/wb283/qb1rnaseq); all analyses are carried out in virtual [Google Colab](https://colab.research.google.com/) environments (google email account needed to login). 
+-->
 
 - Open the experimental protocol here (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_DE_corrected.ipynb)
 
