@@ -1,0 +1,99 @@
+query	source	term_id	term_name	term_size	query_size	intersection_size	p_value	direction
+query_1	GO:BP	GO:0050804	modulation of chemical synaptic transmission	513	83	12	0.000795621918582145	downregulated
+query_1	GO:BP	GO:0099177	regulation of trans-synaptic signaling	514	83	12	0.000795621918582145	downregulated
+query_1	GO:BP	GO:0007268	chemical synaptic transmission	775	83	14	0.00082397860094569	downregulated
+query_1	GO:BP	GO:0098916	anterograde trans-synaptic signaling	775	83	14	0.00082397860094569	downregulated
+query_1	GO:BP	GO:0099537	trans-synaptic signaling	781	83	14	0.00082397860094569	downregulated
+query_1	GO:BP	GO:0099536	synaptic signaling	807	83	14	0.00100475285648607	downregulated
+query_1	GO:BP	GO:0007267	cell-cell signaling	1342	83	17	0.00451949865468603	downregulated
+query_1	GO:BP	GO:0072655	establishment of protein localization to mitochondrion	123	85	6	0.00745593566650851	upregulated
+query_1	GO:BP	GO:0070585	protein localization to mitochondrion	132	85	6	0.00745593566650851	upregulated
+query_1	GO:BP	GO:0070383	DNA cytosine deamination	10	85	3	0.00745593566650851	upregulated
+query_1	GO:BP	GO:0016554	cytidine to uridine editing	13	85	3	0.00745593566650851	upregulated
+query_1	GO:BP	GO:0006950	response to stress	3948	85	33	0.00745593566650851	upregulated
+query_1	GO:BP	GO:0006626	protein targeting to mitochondrion	104	85	6	0.00745593566650851	upregulated
+query_1	GO:BP	GO:0045006	DNA deamination	14	85	3	0.00810999146584478	upregulated
+query_1	REAC	REAC:R-HSA-1483255	PI Metabolism	84	48	5	0.0115577314947432	downregulated
+query_1	GO:BP	GO:0045869	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	17	85	3	0.0116808306497611	upregulated
+query_1	GO:BP	GO:0002376	immune system process	2871	85	26	0.0116808306497611	upregulated
+query_1	GO:BP	GO:0035967	cellular response to topologically incorrect protein	109	85	5	0.0145301896735168	upregulated
+query_1	GO:BP	GO:0045091	regulation of single stranded viral RNA replication via double stranded DNA intermediate	20	85	3	0.0145301896735168	upregulated
+query_1	GO:BP	GO:0039692	single stranded viral RNA replication via double stranded DNA intermediate	21	85	3	0.0145301896735168	upregulated
+query_1	GO:BP	GO:0016553	base conversion or substitution editing	19	85	3	0.0145301896735168	upregulated
+query_1	GO:BP	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	105	85	5	0.0145301896735168	upregulated
+query_1	GO:BP	GO:0006810	transport	4407	83	33	0.0181391876681883	downregulated
+query_1	GO:BP	GO:0071332	cellular response to fructose stimulus	5	85	2	0.024399158515465	upregulated
+query_1	GO:BP	GO:0002682	regulation of immune system process	1581	85	17	0.024399158515465	upregulated
+query_1	GO:BP	GO:0075525	viral translational termination-reinitiation	5	85	2	0.024399158515465	upregulated
+query_1	GO:BP	GO:1901658	glycosyl compound catabolic process	27	85	3	0.024399158515465	upregulated
+query_1	GO:BP	GO:0046087	cytidine metabolic process	6	85	2	0.0252314847306486	upregulated
+query_1	GO:BP	GO:0032368	regulation of lipid transport	132	85	5	0.0252314847306486	upregulated
+query_1	GO:BP	GO:0006216	cytidine catabolic process	6	85	2	0.0252314847306486	upregulated
+query_1	GO:BP	GO:0044355	clearance of foreign intracellular DNA	6	85	2	0.0252314847306486	upregulated
+query_1	GO:BP	GO:0009972	cytidine deamination	6	85	2	0.0252314847306486	upregulated
+query_1	GO:BP	GO:0099046	clearance of foreign intracellular nucleic acids	6	85	2	0.0252314847306486	upregulated
+query_1	GO:BP	GO:0006304	DNA modification	31	85	3	0.0266834866946997	upregulated
+query_1	GO:BP	GO:0039694	viral RNA genome replication	32	85	3	0.027183424657679	upregulated
+query_1	GO:BP	GO:0002313	mature B cell differentiation involved in immune response	32	85	3	0.027183424657679	upregulated
+query_1	GO:BP	GO:1902532	negative regulation of intracellular signal transduction	662	85	10	0.0282408274168424	upregulated
+query_1	GO:BP	GO:2001234	negative regulation of apoptotic signaling pathway	232	85	6	0.0282408274168424	upregulated
+query_1	GO:BP	GO:2000191	regulation of fatty acid transport	34	85	3	0.0282408274168424	upregulated
+query_1	GO:BP	GO:0042440	pigment metabolic process	82	85	4	0.0282408274168424	upregulated
+query_1	GO:BP	GO:0010760	negative regulation of macrophage chemotaxis	7	85	2	0.0282408274168424	upregulated
+query_1	GO:BP	GO:0046131	pyrimidine ribonucleoside metabolic process	8	85	2	0.0290544465844768	upregulated
+query_1	GO:BP	GO:0010526	transposable element silencing	36	85	3	0.0290544465844768	upregulated
+query_1	GO:BP	GO:0035966	response to topologically incorrect protein	157	85	5	0.0290544465844768	upregulated
+query_1	GO:BP	GO:1901524	regulation of mitophagy	37	85	3	0.0290544465844768	upregulated
+query_1	GO:BP	GO:0046133	pyrimidine ribonucleoside catabolic process	8	85	2	0.0290544465844768	upregulated
+query_1	GO:BP	GO:0071499	cellular response to laminar fluid shear stress	8	85	2	0.0290544465844768	upregulated
+query_1	GO:BP	GO:0006869	lipid transport	436	85	8	0.0290544465844768	upregulated
+query_1	GO:BP	GO:0002335	mature B cell differentiation	39	85	3	0.0291138865359963	upregulated
+query_1	GO:BP	GO:0010876	lipid localization	456	85	8	0.0291138865359963	upregulated
+query_1	GO:BP	GO:0006955	immune response	2070	85	19	0.0291138865359963	upregulated
+query_1	GO:BP	GO:0031669	cellular response to nutrient levels	248	85	6	0.0291138865359963	upregulated
+query_1	GO:BP	GO:0046889	positive regulation of lipid biosynthetic process	92	85	4	0.0291138865359963	upregulated
+query_1	GO:BP	GO:1905952	regulation of lipid localization	162	85	5	0.0291138865359963	upregulated
+query_1	GO:BP	GO:0032197	retrotransposition	38	85	3	0.0291138865359963	upregulated
+query_1	GO:BP	GO:0032196	transposition	40	85	3	0.0303892327399268	upregulated
+query_1	GO:BP	GO:0046135	pyrimidine nucleoside catabolic process	10	85	2	0.0339178830046486	upregulated
+query_1	GO:BP	GO:0002317	plasma cell differentiation	10	85	2	0.0339178830046486	upregulated
+query_1	GO:BP	GO:0044281	small molecule metabolic process	1776	85	17	0.0339178830046486	upregulated
+query_1	GO:BP	GO:0007584	response to nutrient	171	85	5	0.0339178830046486	upregulated
+query_1	GO:BP	GO:0008610	lipid biosynthetic process	729	85	10	0.0339178830046486	upregulated
+query_1	GO:BP	GO:0009750	response to fructose	10	85	2	0.0339178830046486	upregulated
+query_1	GO:BP	GO:2001242	regulation of intrinsic apoptotic signaling pathway	177	85	5	0.034941046128935	upregulated
+query_1	GO:BP	GO:1903146	regulation of autophagy of mitochondrion	44	85	3	0.034941046128935	upregulated
+query_1	REAC	REAC:R-HSA-1483248	Synthesis of PIPs at the ER membrane	5	48	2	0.0351071305985362	downregulated
+query_1	GO:BP	GO:1905953	negative regulation of lipid localization	45	85	3	0.0361021671376493	upregulated
+query_1	REAC	REAC:R-HSA-1483257	Phospholipid metabolism	211	48	6	0.0367525294681653	downregulated
+query_1	GO:BP	GO:0006534	cysteine metabolic process	11	85	2	0.0377820016312024	upregulated
+query_1	GO:BP	GO:0046890	regulation of lipid biosynthetic process	182	85	5	0.0377820016312024	upregulated
+query_1	GO:BP	GO:0006984	ER-nucleus signaling pathway	47	85	3	0.038929301473515	upregulated
+query_1	GO:BP	GO:0042168	heme metabolic process	48	85	3	0.0407139082078605	upregulated
+query_1	GO:BP	GO:1905522	negative regulation of macrophage migration	12	85	2	0.0414297518376599	upregulated
+query_1	GO:BP	GO:0031667	response to nutrient levels	510	85	8	0.0414297518376599	upregulated
+query_1	GO:BP	GO:0000727	double-strand break repair via break-induced replication	12	85	2	0.0414297518376599	upregulated
+query_1	GO:BP	GO:0002521	leukocyte differentiation	636	85	9	0.0414297518376599	upregulated
+query_1	GO:BP	GO:0036503	ERAD pathway	109	85	4	0.0414297518376599	upregulated
+query_1	GO:BP	GO:0002686	negative regulation of leukocyte migration	51	85	3	0.0428781279929816	upregulated
+query_1	GO:BP	GO:0002683	negative regulation of immune system process	515	85	8	0.0428781279929816	upregulated
+query_1	GO:BP	GO:0140353	lipid export from cell	51	85	3	0.0428781279929816	upregulated
+query_1	GO:BP	GO:0006631	fatty acid metabolic process	400	85	7	0.043095024388935	upregulated
+query_1	GO:BP	GO:0001817	regulation of cytokine production	781	85	10	0.043095024388935	upregulated
+query_1	GO:BP	GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	13	85	2	0.0435415499240518	upregulated
+query_1	GO:BP	GO:0001816	cytokine production	787	85	10	0.0443704856090259	upregulated
+query_1	GO:BP	GO:0032101	regulation of response to external stimulus	1082	85	12	0.0458413713984825	upregulated
+query_1	GO:BP	GO:0006778	porphyrin-containing compound metabolic process	55	85	3	0.0471521478242083	upregulated
+query_1	GO:BP	GO:0042454	ribonucleoside catabolic process	14	85	2	0.0471521478242083	upregulated
+query_1	GO:BP	GO:0032308	positive regulation of prostaglandin secretion	14	85	2	0.0471521478242083	upregulated
+query_1	GO:BP	GO:1903131	mononuclear cell differentiation	534	85	8	0.0471521478242083	upregulated
+query_1	GO:BP	GO:0045071	negative regulation of viral genome replication	57	85	3	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0046456	icosanoid biosynthetic process	57	85	3	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0032306	regulation of prostaglandin secretion	15	85	2	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0046649	lymphocyte activation	814	85	10	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0097193	intrinsic apoptotic signaling pathway	312	85	6	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0015908	fatty acid transport	122	85	4	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0031347	regulation of defense response	809	85	10	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0046148	pigment biosynthetic process	58	85	3	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0034616	response to laminar fluid shear stress	15	85	2	0.0486572199586654	upregulated
+query_1	GO:BP	GO:0009056	catabolic process	2639	85	21	0.0486572199586654	upregulated
