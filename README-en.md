@@ -1,39 +1,41 @@
-# Seminar: Genexpressionsanalyse und Drug Repositioning
+# Seminar: Gene Expression and Drug Repositioning Analysis
 
-Skripte und Tutorials zur Analyse von Expressions- und Medikamentenumwidmungsdaten. Seminar für das Modul: <br>[QB1: Epidemiologie, Med. Biometrie u. Med. Informatik](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176669&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&idcol=k_semester.semid&idval=20252&getglobal=semester&htmlBodyOnly=true)
+Scripts and tutorials for analyzing expression and drug repositioning data. Seminar for the module: <br>[QB1: Epidemiologie, Med. Biometrie u. Med. Informatik](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176669&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&idcol=k_semester.semid&idval=20252&getglobal=semester&htmlBodyOnly=true)
 
 ---
 
-## Beschreibung
+## Description
 
-Diese Sitzungen behandeln die Verwendung verschiedener Softwaretools, die für die Analyse von Genexpressionsdaten benötigt werden. Während dieser Sitzungen werden die Studierenden in der Lage sein:
+These sessions will cover the use of a variety of software tools needed for the analysis of gene expression data. During these sessions, the students will be able to:
 
-* Die gängigen Datenformate in der Genexpressionsanalyse zu studieren;
-* Differenziell exprimierte Gene aus Expressionsexperimenten zu identifizieren;
-* Die relevanten Signalwege und biologischen Prozesse aus differenziell exprimierten Genen zu entdecken; und
-* Medikamente zu finden, die die molekularen Phänotypen in Genexpressionsdaten umkehren. 
+* Learn the basics on the linux / Mac OSX command line environment; 
+* Study the common data formats in the analysis of gene expression
+* Obtain gene expression data from Illumina sequencings;
+* Identifying differentially expressed genes from expression experiments;
+* Discovering the relevant pathways and biological processes from differentially expressed genes; and
+* Finding drugs that reverse the molecular phenotypes in gene expression data. 
 
-##### Veranstaltungsorte und Termine
+##### Venues and Dates
 
-* Wintersemester: November 2025
-
-
-##### Präsentationen
-
-- Hier herunterladen: **[PDF](https://github.com/barrantesisrael/qb1rnaseq/blob/main/barrantes_genexpressionsanalyse_WS202526_ib09.pdf)**
+* Winter semester: November 2025
 
 
-##### Software und Daten
+##### Presentations
+
+- Download here: <!-- [link](https://github.com/barrantesisrael/mbtmicrobiome2023/blob/main/MBTPraktikum2024V01.pdf) <p> -->
+
+
+##### Software and data
 
 <!-- 
 - All required data and scripts are available through our [gitlab repository](https://gitlab.uni-rostock.de/wb283/qb1rnaseq); all analyses are carried out in virtual [Google Colab](https://colab.research.google.com/) environments (google email account needed to login). 
 -->
 
-- Öffnen Sie das experimentelle Protokoll hier (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V60_Claude_DE04_ibmod.ipynb)
+- Open the experimental protocol here (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V60_Claude_DE04_ibmod.ipynb)
 
 ---
 
-## Bibliographie
+## Bibliography
 
 1. **Anaconda Software Distribution (2020)**. Anaconda Documentation. Anaconda Inc. Available at: https://docs.anaconda.com/
 2. **Anders, S. et al. (2010)**. Differential expression analysis for sequence count data. *Genome Biology*, 11(10), R106. https://doi.org/10.1186/gb-2010-11-10-r106
@@ -67,14 +69,16 @@ Diese Sitzungen behandeln die Verwendung verschiedener Softwaretools, die für d
   
 ---
 
-## Kontakt
+## Contact
 
 Dr. rer. nat. Israel Barrantes <br>
-Forschungsgruppe Translational Bioinformatics (Leiter)<br>
-Institut für Biostatistik und Informatik in Medizin und Alternsforschung, Büro 3017<br>
-Universitätsmedizin Rostock<br>
+Research Group Translational Bioinformatics (head)<br>
+Institute for Biostatistics and Informatics in Medicine and Ageing Research, Office 3017<br>
+Rostock University Medical Center<br>
+Ernst-Heydemann-Str. 8<br>
+18057 Rostock, Germany<br>
 
-E-Mail: israel.barrantes[bei]uni-rostock.de
+Email: israel.barrantes[bei]uni-rostock.de
 
 ---
-Letzte Aktualisierung 2025/11/03
+Last update 2025/07/23
