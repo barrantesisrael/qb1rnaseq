@@ -15,7 +15,7 @@ Diese Sitzungen behandeln die Verwendung verschiedener Softwaretools, die für d
 
 ##### Veranstaltungsorte und Termine
 
-* Wintersemester: November 2025
+* Wintersemester: November 2026
 
 
 ##### Präsentationen
@@ -27,9 +27,13 @@ Diese Sitzungen behandeln die Verwendung verschiedener Softwaretools, die für d
 
 <!-- 
 - All required data and scripts are available through our [gitlab repository](https://gitlab.uni-rostock.de/wb283/qb1rnaseq); all analyses are carried out in virtual [Google Colab](https://colab.research.google.com/) environments (google email account needed to login). 
--->
+
 
 - Öffnen Sie das experimentelle Protokoll hier (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V60_Claude_DE04_ibmod.ipynb)
+-->
+
+- Öffnen Sie das experimentelle Protokoll hier (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2026_V7_0_2.ipynb)
+
 
 ---
 
@@ -77,4 +81,4 @@ Universitätsmedizin Rostock<br>
 E-Mail: israel.barrantes[bei]uni-rostock.de
 
 ---
-Letzte Aktualisierung 2025/11/03
+Letztes update 2026/10/26
