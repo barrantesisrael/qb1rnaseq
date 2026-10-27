@@ -75,10 +75,11 @@ Diese Sitzungen behandeln die Verwendung verschiedener Softwaretools, die für d
 
 Dr. rer. nat. Israel Barrantes <br>
 Forschungsgruppe Translational Bioinformatics (Leiter)<br>
-Institut für Biostatistik und Informatik in Medizin und Alternsforschung, Büro 3017<br>
+Institut für Biostatistik und Informatik in Medizin und Alternsforschung<br>
 Universitätsmedizin Rostock<br>
 
+<!---
 E-Mail: israel.barrantes[bei]uni-rostock.de
-
+--->
 ---
 Letztes update 2026/10/26
