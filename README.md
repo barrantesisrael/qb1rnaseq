@@ -37,7 +37,7 @@ Diese Sitzungen behandeln die Verwendung verschiedener Softwaretools, die für d
 - Öffnen Sie das experimentelle Protokoll hier (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V60_Claude_DE04_ibmod.ipynb)
 -->
 
-- Protokoll (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2026_V7_3_1.ipynb)
+- Protokoll (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/qb1_rnaseq_ws2026_deslopped_20261101_V07.ipynb)
 
 
 ---
